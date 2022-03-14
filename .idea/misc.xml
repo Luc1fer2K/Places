@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android_Projects/HappyPlaces_v22/HappyPlaces_v22/app/src/main/res/layout/activity_main.xml" value="0.1265625" />
+        <entry key="..\:/Android_Projects/HappyPlaces_v22/HappyPlaces_v22/app/src/main/res/layout/activity_add_happy_place.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android_Projects/HappyPlaces_v22/HappyPlaces_v22/app/src/main/res/layout/activity_happy_place_detail.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android_Projects/HappyPlaces_v22/HappyPlaces_v22/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android_Projects/HappyPlaces_v22/HappyPlaces_v22/app/src/main/res/layout/activity_map.xml" value="0.20572916666666666" />
+        <entry key="..\:/Android_Projects/HappyPlaces_v22/HappyPlaces_v22/app/src/main/res/layout/item_happy_place.xml" value="0.20572916666666666" />
       </map>
     </option>
   </component>

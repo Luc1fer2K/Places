@@ -10,11 +10,13 @@
         android:id="@+id/toolbar_happy_place_detail"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="@color/colorPrimary"
+        android:background="#2196F3"
         android:theme="@style/CustomToolbarStyle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+
 
     <ScrollView
         android:id="@+id/sv_main"
@@ -79,7 +81,7 @@
                 android:layout_marginStart="@dimen/detail_screen_btn_view_on_map_marginStartEnd"
                 android:layout_marginTop="@dimen/detail_screen_btn_view_on_map_marginTop"
                 android:layout_marginEnd="@dimen/detail_screen_btn_view_on_map_marginStartEnd"
-                android:background="@drawable/shape_button_rounded"
+                android:background="#2196F3"
                 android:gravity="center"
                 android:paddingTop="@dimen/detail_screen_btn_view_on_map_PaddingTopBottom"
                 android:paddingBottom="@dimen/detail_screen_btn_view_on_map_PaddingTopBottom"
